@@ -28,5 +28,4 @@ This project is beginner-friendly and demonstrates core Python concepts.
 2. Clone the repository or download the file.
 3. Run the program using the command:
 
-```bash
-python dice_rolling_game.py
+---
